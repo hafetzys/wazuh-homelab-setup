@@ -29,6 +29,5 @@ This project demonstrates hands-on experience with SIEM deployment, alerting, an
 
 > Disclaimer: This is a simplified overview. For full setup instructions, refer to [Wazuh Official Docs](https://documentation.wazuh.com/current/).
 
-![Static Badge](https://img.shields.io/badge/the-process-red?style=flat-square&logoSize=300x300&link=https%3A%2F%2Fgithub.com%2Fhafetzys%2Fwazuh-homelab-setup%2Fblob%2Fmain%2FWazuh%2520Installation%2520and%2520File%2520Integrity%2520Monitoring.pdf)
-
+<a href="https://github.com/hafetzys/wazuh-homelab-setup/blob/main/Wazuh%20Installation%20and%20File%20Integrity%20Monitoring.pdf"><img src="https://img.shields.io/badge/Click-HERE-blue?style=flat-square&logoSize=300x300" /></a>
 
