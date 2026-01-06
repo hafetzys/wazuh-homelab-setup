@@ -10,7 +10,7 @@ The setup includes:
 
 - **Wazuh Manager**: **Kali Linux 2025.2**, managing agents and analyzing alerts.
 - **Wazuh Agent**: Installed on a **Windows 11** client machine for monitoring.
-- **File Integrity Monitoring (FIM)**: Tested to track changes to files.
+- **File Integrity Monitoring (FIM)**: A directory and test txt file created and tested to track changes to files.
 
 This project demonstrates hands-on experience with SIEM deployment, alerting, and basic security monitoring.
 
